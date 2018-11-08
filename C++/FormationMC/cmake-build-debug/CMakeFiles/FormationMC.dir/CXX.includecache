@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Geekzone/Desktop/FormationMC/Feu_Signalisation.cpp
+stdio.h
+C:/Users/Geekzone/Desktop/FormationMC/stdio.h
+iostream
+C:/Users/Geekzone/Desktop/FormationMC/iostream
+cstdlib
+C:/Users/Geekzone/Desktop/FormationMC/cstdlib
+Feu_Signalisation.h
+C:/Users/Geekzone/Desktop/FormationMC/Feu_Signalisation.h
+
+C:/Users/Geekzone/Desktop/FormationMC/Feu_Signalisation.h
+
